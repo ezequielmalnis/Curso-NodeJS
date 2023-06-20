@@ -1,0 +1,27 @@
+let nombre = 'Ezequiel';
+let apellido = 'Malnis';
+let edad=33;
+let numeroDeTelefono=3541634569;
+let socio= true;
+let diaDelPartido= new Date(2022,10,30);
+let horaDelPartido=new Date(); //preguntar por como hago esto
+horaDelPartido.setHours(1);
+horaDelPartido.setMinutes(35);
+let numeroDeSilla=33;
+let precioDelBoleto=857.33;
+console.log(nombre);
+console.log(typeof(nombre));
+console.log(apellido);
+console.log(typeof(apellido));
+console.log(edad);
+console.log(typeof(edad));
+console.log(numeroDeTelefono);
+console.log(typeof(numeroDeTelefono));
+console.log(diaDelPartido);
+console.log(typeof(diaDelPartido));
+console.log(horaDelPartido);
+console.log(typeof(horaDelPartido));
+console.log(numeroDeSilla);
+console.log(typeof(numeroDeSilla));
+console.log(precioDelBoleto);
+console.log(typeof(precioDelBoleto));
